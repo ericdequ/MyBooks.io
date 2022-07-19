@@ -1,0 +1,13 @@
+*Details*
+Page to download and read free pdfs also will allow audio version
+
+*Hosted*
+Heroku / Pages
+
+*Language* 
+Pyscript / Python
+
+*Improvements*
+User accounts that saves progress
+shows one word at a time to read really fast
+
